@@ -3,8 +3,7 @@ Effective Date: 2025/03/20
 Last Updated : 2025/03/20
 
 1. Introduction
-Welcome to Membership_App, operated by The Union. This Privacy Policy explains how we collect, use, and protect your personal information when using our mobile application.
-
+Welcome to Membership_App, operated by The Union ("we," "our," or "us"). This Privacy Policy explains how we collect, use, and protect your personal information when using our mobile application.
 2. Information We Collect
 We may collect the following types of information:
 
